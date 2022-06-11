@@ -1,2 +1,0 @@
-# Strogonoff-Teste
-Teste - test
